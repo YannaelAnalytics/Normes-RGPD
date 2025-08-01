@@ -29,6 +29,7 @@ Il faut informer les personnes de l’utilisation des données les concernant et
 - Droit de définir le sort des données après la mort
 - Droit de ne pas faire l'objet d'une décision automatisée
 
+---
 
 ## 🧰 D’autres bonnes pratiques RGPD-friendly 
 
