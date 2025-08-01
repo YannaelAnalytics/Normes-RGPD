@@ -39,3 +39,23 @@
 
 | Nom Champ                  | Type   | Description                                                            |
 |----------------------------|--------|------------------------------------------------------------------------|
+| id_client                  | STRING | Identifiant unique du client                                           |
+| sexe                       | STRING | Sexe du client                                                         |
+| tranche_age                | STRING | Tranche d'âge du client à assurer                                      |
+| ville                      | STRING | Ville de résidence du client                                           |
+| code_postal                | STRING | Code postal de la ville de résidence du client                         |
+| metier                     | STRING | Métier du client                                                       |
+| enfant_conduite_accompagne | STRING | Nombre d'enfants en conduite accompagnée                               |
+| nombre_enfants             | STRING | Nombre d'enfants du client                                             |
+| tranche_de_revenus         | STRING | Tranche de revenus du client                                           |
+| tranche_valeur_residence_principale | STRING | Tranche de valeur de la résidence principale du client        |
+| formation                  | STRING | Type de formation du client                                            |
+| usage_vehicule             | STRING | Usage principal du véhicule                                            |
+| type_vehicule              | STRING | Type de véhicule                                                       |
+| est_rouge                  | BOOLEEN | Indique si le véhicule du client est rouge                            |
+| age_vehicule               | STRING | Âge du véhicule à assurer                                              |
+| type_conduite              | STRING | Type de conduite envisagée                                             |
+| date_demande               | DATE   | Date de la demande de devis faite sur internet                         |
+| etat_dossier               | STRING | Etat du dossier : complet / incomplet                                  |
+| formule                    | STRING | Formule choisie par le client lors de sa demande internet              |
+| tarif_devis                | INT    | Tarif accordé au client en fonction de son profil                      |
