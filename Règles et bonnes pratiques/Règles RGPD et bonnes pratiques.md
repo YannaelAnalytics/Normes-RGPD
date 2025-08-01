@@ -33,8 +33,8 @@ Il faut informer les personnes de l’utilisation des données les concernant et
 
 ## 🧰 D’autres bonnes pratiques RGPD-friendly 
 
-🗝️ **Chiffrement des fichiers sensibles** --> Protège les identités en cas de fuite.
-🧾 **Journalisation des accès**	 --> Trace qui a accédé aux fichiers sensibles.
-🔐 **Protection des fichiers par mot de passe** --> Permet de s'assurer que l'accès aux données est 
-👥 **Politique de rôle (accès limité)** --> Seuls certains collaborateurs peuvent voir les données sensibles.
-📉 **Anonymisation pour l’analyse** --> Supprime définitivement les infos identifiantes quand plus nécessaires
+- 🗝️**Chiffrement des fichiers sensibles** --> Protège les identités en cas de fuite.
+- 🧾 **Journalisation des accès**	 --> Trace qui a accédé aux fichiers sensibles.
+- 🔐 **Protection des fichiers par mot de passe** --> Permet de s'assurer que l'accès aux données est 
+- 👥 **Politique de rôle (accès limité)** --> Seuls certains collaborateurs peuvent voir les données sensibles.
+- 📉 **Anonymisation pour l’analyse** --> Supprime définitivement les infos identifiantes quand plus nécessaires
