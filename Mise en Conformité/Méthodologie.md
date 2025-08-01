@@ -4,7 +4,7 @@ Ce document présente la méthodologie de nettoyage et de pseudonymisation de no
 
 ---
 
-## 🗂️ Méthodologie en 3 étapes
+## 🗂️ Méthodologie
 
 ### I. 🧹 Nettoyage & transformation avec **PowerQuery (Excel)**
 
@@ -17,19 +17,13 @@ Ce document présente la méthodologie de nettoyage et de pseudonymisation de no
   - Fractionnement de l’adresse → conservation de **ville et code postal uniquement**
 - **Catégorisation** de variables personnelles :
   - Tranches d’âge, niveaux de revenus, valeur de la résidence
-- Transformation de types de données :
-  - Conversion logique (`Oui/Non` → `TRUE/FALSE`)
-  - Correction des formats numériques (ex: points → virgules)
-- Réorganisation finale des colonnes
-- Export du fichier nettoyé en `.xlsx`
 
 ---
 
 ## ✅ Bonnes pratiques appliquées
 
-- **Minimisation** des données collectées (seulement ce qui est utile)
+- **Minimisation** des données collectées (seulement ce qui est utile) & suppression de toutes données sensibles inutiles à l’activité commerciale
 - **Pseudonymisation** systématique des données identifiantes
-- Suppression de toutes données sensibles inutiles à l’activité commerciale
 - Formatage des variables pour améliorer la lisibilité et la segmentation
 - Garantie de la conformité pour un usage analytique ou marketing sans identification directe
 
