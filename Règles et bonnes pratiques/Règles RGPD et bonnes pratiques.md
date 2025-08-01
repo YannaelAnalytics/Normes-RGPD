@@ -1,22 +1,22 @@
-## Grands principes du RGPD
+# Grands principes du RGPD
 
-# 1) Légalité du traitement et transparence
+## 1) Légalité du traitement et transparence
 
 La personne concernée a consenti au traitement de ses données à caractère personnel pour une ou plusieurs finalités spécifiques. En revanche le consentement n'est pas nécessaire lorsque ces données sont collectées pour l'exécution d'un contrat ou de mesures précontractuelles comme un devis.
 
-# 2) Finalité du traitement
+## 2) Finalité du traitement
 
 Les données sont collectées pour un but précis et légitime et ne sont pas traitées ultérieurement de façon incompatible avec cet objectif initial. Cela permet de limiter la manière dont la donnée peut être utilisée ou réutilisée dans le futur.
 
-# 3) Minimisation et conservation des données
+## 3) Minimisation et conservation des données
 
 Seules les données strictement nécessaires à la finalité peuvent être collectées et traitées. De plus, une durée de conservation doit être définie et appliquée. Dès que la finalité est atteinte, les données doivent être archivées, supprimées ou anonymisées.
 
-# 4) Sécurisation des données sensibles
+## 4) Sécurisation des données sensibles
 
 Les données sensibles, c’est-à-dire relatives à la santé, aux opinions politiques ou religieuses, etc. ne peuvent être collectées et traitées que dans certaines conditions. On ne peut recueillir ou utiliser ces données que dans certains cas précis. De manière générale, il est fondamental d’assurer la sécurité des données traitées et stockées.
 
-# 5) Garantir le droit des personnes sur la maitrise de leurs données
+## 5) Garantir le droit des personnes sur la maitrise de leurs données
 
 Il faut informer les personnes de l’utilisation des données les concernant et des droits qu’ils ont sur leurs données :
 ● Droit d'accès
