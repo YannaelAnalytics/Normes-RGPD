@@ -1,4 +1,5 @@
-# Grands principes du RGPD
+# 💾 Grands principes du RGPD
+
 
 ## 1) Légalité du traitement et transparence
 
@@ -19,18 +20,19 @@ Les données sensibles, c’est-à-dire relatives à la santé, aux opinions pol
 ## 5) Garantir le droit des personnes sur la maitrise de leurs données
 
 Il faut informer les personnes de l’utilisation des données les concernant et des droits qu’ils ont sur leurs données :
-● Droit d'accès
-● Droit de rectification
-● Droit de suppression
-● Droit d'opposition
-● Droit à la portabilité
-● Droit à la limitation du traitement
-● Droit de définir le sort des données après la mort
-● Droit de ne pas faire l'objet d'une décision automatisée
+- Droit d'accès
+- Droit de rectification
+- Droit de suppression
+- Droit d'opposition
+- Droit à la portabilité
+- Droit à la limitation du traitement
+- Droit de définir le sort des données après la mort
+- Droit de ne pas faire l'objet d'une décision automatisée
+
 
 ## 🧰 D’autres bonnes pratiques RGPD-friendly 
 
-🔐 **Chiffrement des fichiers sensibles** --> Protège les identités en cas de fuite.
+🗝️ **Chiffrement des fichiers sensibles** --> Protège les identités en cas de fuite.
 🧾 **Journalisation des accès**	 --> Trace qui a accédé aux fichiers sensibles.
 🔐 **Protection des fichiers par mot de passe** --> Permet de s'assurer que l'accès aux données est 
 👥 **Politique de rôle (accès limité)** --> Seuls certains collaborateurs peuvent voir les données sensibles.
